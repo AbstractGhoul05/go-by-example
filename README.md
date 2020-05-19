@@ -1,6 +1,7 @@
 # go-by-example
 
-Code examples from https://gobyexample.com/
+Code examples from [Go by Example](https://gobyexample.com/)
+To run, goto [The Go Playground](https://play.golang.org/) or download Go from [Go Downloads](https://golang.org/dl/)
 
 To run filename.go, simply type the following in terminal/cmd/powershell - 
 ```
